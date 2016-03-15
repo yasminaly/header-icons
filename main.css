@@ -1,0 +1,14 @@
+html {
+  box-sizing: border-box;
+  font: normal 100%/1.5 Merriweather;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  background-color: #d05c2e;
+  font-size: 2rem;
+
+}
